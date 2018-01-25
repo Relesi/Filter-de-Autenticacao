@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hot_mart">
+    <output-path>$PROJECT_DIR$/out/artifacts/hot_mart</output-path>
+    <root id="root" />
+  </artifact>
+</component>
